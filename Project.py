@@ -4,7 +4,7 @@ import pandas as pd
 
 movies_data = {
     'Title': [
-        "Avengers Endgame", "The Amazing Spider Man 2", "Transformers", 
+        "Avengers Endgame", "The Amazing Spider Man 2", "TransformerS", 
         "Demon Slayer Infinity Castle", "Jujutsu Kaisen 0", "Your Name", 
         "The Batman"
     ],
